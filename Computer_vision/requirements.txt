@@ -1,0 +1,8 @@
+kagglehub==0.3.6
+opencv-python==4.11.0.86
+geopandas==1.0.1
+numpy==2.2.2
+torch==2.5.1
+torchvision==0.20.1
+rasterio==1.4.3
+matplotlib==3.10.0

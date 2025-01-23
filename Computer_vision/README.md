@@ -4,7 +4,11 @@
     ```sh
     git clone https://github.com/Andrii-Bezkrovnyi/data_science_test.git
     ```
-2. **Create a virtual environment**:
+2. 2. **Open the directory Computer_vision**:
+    ```sh
+    cd Computer_vision
+    ```
+3. **Create a virtual environment**:
     ```sh
     python -m venv venv
     venv\Scripts\activate (on Windows) 
